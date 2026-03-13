@@ -1,0 +1,4 @@
+customtkinter
+plyer
+pillow
+psutil
